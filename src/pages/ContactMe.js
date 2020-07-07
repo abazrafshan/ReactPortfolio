@@ -6,9 +6,9 @@ import Footer from "../components/Footer";
 export default function ContactMe(){
     return (
         <div>
-            <Navbar/>
+            {/* <Navbar/> */}
                 <Contact/>
-            <Footer/>
+            {/* <Footer/> */}
         </div>
     )
 }

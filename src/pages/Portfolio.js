@@ -6,9 +6,9 @@ import Footer from "../components/Footer";
 export default function Portfolio(){
     return (
         <div>
-            <Navbar/>
+            {/* <Navbar/> */}
                 <Portfolio/>
-            <Footer/>
+            {/* <Footer/> */}
         </div>
     )
 }

@@ -33,3 +33,27 @@
     width:92%;
     height: fit-content;
 }
+
+@media screen and (max-width: 980px) {
+    .banner {
+        width: 93%;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .banner {
+        width: 88%;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    .banner {
+        width: 91%;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    .banner {
+        width: 90%;
+    }
+}
