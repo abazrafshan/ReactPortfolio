@@ -1,13 +1,13 @@
 import React from "react";
 import Navbar from "../components/Navbar";
-import AboutMe from "../components/AboutMe";
+import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 
-export default function About(){
+export default function ContactMe(){
     return (
         <div>
             <Navbar/>
-                <AboutMe/>
+                <Contact/>
             <Footer/>
         </div>
     )
